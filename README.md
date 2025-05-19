@@ -1,7 +1,7 @@
 ## Bem vindo! 👋
 
 - Eu me chamo Caciel, sou um desenvolvedor que busca aprender cada vez mais, e contribuir com a comunidade Dev.<br>
-- Com minha base já criada através de muita lógica, estou adquirindo conhecimentos práticos em meu atual trabalho,
+- Estou adquirindo conhecimentos práticos com meus projetos pessoais e estudo,
   procurando soluções de forma dinâmica e ágil.
 
 <!--
