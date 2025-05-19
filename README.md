@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bem vindo! 👋
+
+- Eu me chamo Caciel, sou um desenvolvedor que busca aprender cada vez mais, e contribuir com a comunidade Dev.<br>
+- Com minha base já criada através de muita lógica, estou adquirindo conhecimentos práticos em meu atual trabalho,
+  procurando soluções de forma dinâmica e ágil.
 
 <!--
 **cacielfidalgo/CacielFidalgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
